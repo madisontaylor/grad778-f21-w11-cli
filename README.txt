@@ -7,3 +7,5 @@ I am editing for this step of the lecture.
 
 
 MAKING A CONFLICT
+
+Resolved Conflict
